@@ -1,0 +1,42 @@
+.time{
+    font-family: Ds-Digital;
+    background-color: black;
+    color: red;
+    font-size: xx-large;
+    width: 155px;
+    border: 2px solid black;
+    float: right;
+}
+
+.word{
+    font-size: medium;
+    float: left;
+}
+
+.main{
+    font-size:88px;
+    
+
+}
+
+
+.button{
+    background: url(images.jpeg) no-repeat;
+}
+
+
+
+.timer{
+    font-family: Ds-Digital;
+    background-color: black;
+    color: red;
+    font-size: xx-large;
+    width: 155px;
+    border: 2px solid black;
+    text-align-last: center
+
+}
+
+*{
+    text-align-last: center
+}
